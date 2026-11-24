@@ -1,0 +1,1 @@
+My agent read three docs, called zero tools, and wrote a confident summary of the disaster it never touched.
